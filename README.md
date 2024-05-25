@@ -1,2 +1,2 @@
 # RepoJ
-Repositorio para almacenamiento de proyectos para aprendizaje
+Repositorio para almacenamiento de proyectos de aprendizaje
