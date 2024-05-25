@@ -38,8 +38,8 @@ public class ControladorInicio {
 //        personas.add(persona);
 //        personas.add(persona2);
 
-        var personas = Arrays.asList(persona, persona2);
-//        var personas = new ArrayList();
+//        var personas = Arrays.asList(persona, persona2);
+        var personas = new ArrayList();
 
         log.info("Ejecutando el controlador Spring MVC");        
         model.addAttribute("mensaje", mensaje);
